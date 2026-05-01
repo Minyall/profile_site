@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: username
+github_username: Minyall
 minimal_mistakes_skin: contrast
 search: false
 
@@ -74,6 +74,9 @@ author:
     - label: "Publications"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.co.uk/citations?hl=en&user=_2XLVUMAAAAJ"
+    - label: "Substack"
+      icon: "fab fa-fw fa-feather-pointed"
+      url: "https://unserious.substack.com"
 
 footer:
   links:
@@ -86,6 +89,9 @@ footer:
     - label: "Publications"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.co.uk/citations?hl=en&user=_2XLVUMAAAAJ"
+    - label: "Substack"
+      icon: "fab fa-fw fa-feather-pointed"
+      url: "https://unserious.substack.com"
 
 defaults:
   # _posts
