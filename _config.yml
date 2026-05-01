@@ -58,34 +58,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "James Allen-Robertson"
   avatar : "/assets/images/cartoon_profile.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "📚 Computational Social Scientist for Autism Action. Recovering Academic. Self-critical geek 🤓"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-square-linkedin"
-      url: "https://twitter.com/"
+      url: "www.linkedin.com/in/jallen-robertson"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Minyall"
+    - label: "Publications"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.co.uk/citations?hl=en&user=_2XLVUMAAAAJ"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-square-linkedin"
+      url: "www.linkedin.com/in/jallen-robertson"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Minyall"
+    - label: "Publications"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.co.uk/citations?hl=en&user=_2XLVUMAAAAJ"
 
 defaults:
   # _posts
